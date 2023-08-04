@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-portolio/static/css/main.14a58e42.css",
+    "main.js": "/React-portolio/static/js/main.0b54fb27.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-portolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/gojo.jpeg": "/React-portolio/static/media/gojo.4ff16051511b302057f9.jpeg",
+    "index.html": "/React-portolio/index.html",
+    "main.14a58e42.css.map": "/React-portolio/static/css/main.14a58e42.css.map",
+    "main.0b54fb27.js.map": "/React-portolio/static/js/main.0b54fb27.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-portolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14a58e42.css",
+    "static/js/main.0b54fb27.js"
+  ]
+}
