@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/React-portolio/static/css/main.14a58e42.css",
-    "main.js": "/React-portolio/static/js/main.0b54fb27.js",
-    "static/js/787.1ed0c42c.chunk.js": "/React-portolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/gojo.jpeg": "/React-portolio/static/media/gojo.4ff16051511b302057f9.jpeg",
-    "index.html": "/React-portolio/index.html",
-    "main.14a58e42.css.map": "/React-portolio/static/css/main.14a58e42.css.map",
-    "main.0b54fb27.js.map": "/React-portolio/static/js/main.0b54fb27.js.map",
-    "787.1ed0c42c.chunk.js.map": "/React-portolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/React-portolio2/static/css/main.14a58e42.css",
+    "main.js": "/React-portolio2/static/js/main.4226a9ea.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-portolio2/static/js/787.1ed0c42c.chunk.js",
+    "static/media/gojo.jpeg": "/React-portolio2/static/media/gojo.4ff16051511b302057f9.jpeg",
+    "static/media/note.png": "/React-portolio2/static/media/note.7d43321018b817cef100.png",
+    "index.html": "/React-portolio2/index.html",
+    "main.14a58e42.css.map": "/React-portolio2/static/css/main.14a58e42.css.map",
+    "main.4226a9ea.js.map": "/React-portolio2/static/js/main.4226a9ea.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-portolio2/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14a58e42.css",
-    "static/js/main.0b54fb27.js"
+    "static/js/main.4226a9ea.js"
   ]
 }
